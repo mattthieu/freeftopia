@@ -81,3 +81,49 @@ A typology of organizational structure
 | Means of conflict resolution       | Rules of command | Haggling                      | Diplomacy             |
 | Culture                            | Subordination    | Competition                   | Reciprocity           |
 	
+Interesting Examples of organizations
+-------------------------------------
+This is a random collections of ressources which may be relevant, or not.
+
+TODO:
+- add other items
+- sort and comment the items
+- Group them
+
+#### Holacracy
+[Wikipedia](https://en.wikipedia.org/wiki/Holacracy).
+[Zappos](https://www.zapposinsights.com/about/holacracy) claims to be implementing holacracy.
+
+
+#### Futarchy
+[Wikipedia](https://en.wikipedia.org/wiki/Futarchy).
+The prediction markets [Augur](https://www.augur.net/) and [Gnosis](https://groupgnosis.com/) can be seen as fundamental elements of a futarchy.
+
+
+#### Delegative democracy
+Also called liquid democracy. [Wikipedia](https://en.wikipedia.org/wiki/Delegative_democracy).
+[Liquid feedback](http://liquidfeedback.org/) is an implementation mainly used in Germany.
+
+
+#### Strawman Democracy
+[DemocracyOS](http://democracyos.org/) is a software which let militant vote for the laws their representative would rigorously apply in Buenos Aires parliament. The associated party was called [Partido de la Red](http://partidodelared.org/). They lost in the elections.
+
+
+#### Evaluation plateform
+[Backfeed](http://backfeed.cc/) have developped a (private) evaluation system on top of slack.
+
+
+#### Decentralized social network
+Probably many implementations. Some of them
+- [Project groundhog](https://github.com/ethereumbuilders/groundhog) have done a [video](https://www.youtube.com/watch?v=WFeJYv3PSaI) explaining their social network.
+- [Akasha](https://bitcoinmagazine.com/articles/akasha-project-unveils-decentralized-social-media-network-based-on-ethereum-and-ipfs-1462551273).
+
+#### Decentralized investment platform
+[TheDao](https://daohub.org/) is a decentralized plateform for investing money in start-ups.
+
+
+#### Various web based collaboration platforms
+- [Github](https://github.com/)
+- [Slack](https://slack.com/) is a multi-channel chat.
+- [Jira](https://fr.atlassian.com/software/jira) is a collaborative tool for agile project management.
+- [Redmine](http://www.redmine.org/) is an open source (ugly) collaboration plateform which can do a lot.
