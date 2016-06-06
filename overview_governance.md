@@ -81,6 +81,14 @@ A typology of organizational structure
 | Means of conflict resolution       | Rules of command | Haggling                      | Diplomacy             |
 | Culture                            | Subordination    | Competition                   | Reciprocity           |
 	
+Application to real life
+------------------------
+Of course any real organization will involve a mixture of the three categories weather they want it or not. In today's world, an organization interact with the job markets to get members, it also often exists with a global market with a lot of competitors. Besides, the hierarchical system is widespread at least in the mindset of members.
+
+But as seen earlier there are various pros and cons for each type of organization and it could be interesting to design a system which gets the most out of each of them.
+
+TODO: examples of organization (coorporations, associations, states) and how they implement hierarchies, merkets and networks.
+
 Interesting Examples of organizations
 -------------------------------------
 This is a random collections of ressources which may be relevant, or not.
