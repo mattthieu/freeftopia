@@ -89,8 +89,8 @@ But as seen earlier there are various pros and cons for each type of organizatio
 
 TODO: examples of organization (coorporations, associations, states) and how they implement hierarchies, merkets and networks.
 
-Interesting Examples of organizations
--------------------------------------
+Interesting examples of organizations or tools
+----------------------------------------------
 This is a random collections of ressources which may be relevant, or not.
 
 TODO:
