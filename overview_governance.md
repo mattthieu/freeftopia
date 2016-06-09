@@ -112,6 +112,8 @@ The prediction markets [Augur](https://www.augur.net/) and [Gnosis](https://grou
 Also called liquid democracy. [Wikipedia](https://en.wikipedia.org/wiki/Delegative_democracy).
 [Liquid feedback](http://liquidfeedback.org/) is an implementation mainly used in Germany.
 
+#### Democracy
+[Groupe Hervé](http://www.groupeherve.com/organisation-participative/intelligence-collective) works with internal democratic rules and network organization from years
 
 #### Strawman Democracy
 [DemocracyOS](http://democracyos.org/) is a software which let militant vote for the laws their representative would rigorously apply in Buenos Aires parliament. The associated party was called [Partido de la Red](http://partidodelared.org/). They lost in the elections.
