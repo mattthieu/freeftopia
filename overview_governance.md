@@ -8,6 +8,17 @@ Definitions
 -----------
 Governance refers to "all of processes of governing, whether undertaken by a government, market or network, whether over a family, tribe, formal or informal organization or territory and whether through the laws, norms, power or language. (Bevir, 2013)" In particular Governance goes beyond the body of legal texts governing various organizations. It also includes the application of these laws to the real world, with all the social aspects involved in concretely enforcing a common set of rules.
 
+Proposal : 
+An Enterprise Governance System is about the organization of 
+1. power - decision processes (mainly about resources allocations and value repartition / negociations, regulations, ...) : how it is run (headed / shared) and 
+2. controll (about performance measurement, information management... might be wider than financial)
+both formall or informall (processes, rules, interpersonnal relations, ...)
+
+"made of 2 elements : the institutional and regulatory environment and the "Corporate Control Mix""
+Carati and Tourani Rad, (1999) 
+
+
+
 
 A typology of organizational governance
 ---------------------------------------
@@ -107,6 +118,9 @@ TODO:
 [Wikipedia](https://en.wikipedia.org/wiki/Futarchy).
 The prediction markets [Augur](https://www.augur.net/) and [Gnosis](https://groupgnosis.com/) can be seen as fundamental elements of a futarchy.
 
+#### Stakeholders / Shareholders governance systems? 
+See gouvernance partenariale : 
+"Les  travaux  en  gouvernance  partenariale  inscrits  dans  la  théorie positive  de  l’agence  (Jensen et Meckling 1976, 1992) appréhendent l’organisation comme un système contractuel coopératif   où   interagissent   différents   partenaires   aux   intérêts divergents.   Supposant   l’existence  de  conflits  entre  cocontractants  parmi  lesquels  agit  le  dirigeant,  cette  approche propose une   analyse   du   fonctionnement   organisationnel   à   partir des   mécanismes   de  gouvernance. Les parties prenantes s’appuient contractuellement ou non sur ces derniers afin de  discipliner  ou  d'infléchir  le  comportement décisionnel  du  dirigeant. L’entreprise  est  considérée comme un ensemble de contrats, et de mécanismes de gouvernance permettant la sauvegarde des intérêts de chacune des parties prenantes, de les aligner et d'atténuer leur perte d’utilité  respective" in (https://www.researchgate.net/profile/Celine_Chatelin/publication/255645966_Stabilit_et_volution_du_cadre_conceptuel_en_gouvernance_d'entreprise__un_essai_de_synthse/links/5440edf40cf228087b69a17d.pdf)
 
 #### Delegative democracy
 Also called liquid democracy. [Wikipedia](https://en.wikipedia.org/wiki/Delegative_democracy).
