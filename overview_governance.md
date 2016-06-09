@@ -10,8 +10,9 @@ Governance refers to "all of processes of governing, whether undertaken by a gov
 
 Proposal : 
 An Enterprise Governance System is about the organization of 
-1. power - decision processes (mainly about resources allocations and value repartition / negociations, regulations, ...) : how it is run (headed / shared) and 
-2. controll (about performance measurement, information management... might be wider than financial)
+- 1. power - decision processes (mainly about resources allocations and value repartition / negociations, regulations, ...) : how it is run (headed / shared) and 
+- 2. controll (about performance measurement, information management... might be wider than financial)
+
 both formall or informall (processes, rules, interpersonnal relations, ...)
 
 "made of 2 elements : the institutional and regulatory environment and the "Corporate Control Mix""
