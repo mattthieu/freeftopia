@@ -107,14 +107,16 @@ This is a random collections of ressources which may be relevant, or not.
 TODO:
 - add other items
 - sort and comment the items
-- Group them
+
+### Governance systems
 
 #### Holacracy
+
 [Wikipedia](https://en.wikipedia.org/wiki/Holacracy).
 [Zappos](https://www.zapposinsights.com/about/holacracy) claims to be implementing holacracy.
 
-
 #### Futarchy
+
 [Wikipedia](https://en.wikipedia.org/wiki/Futarchy).
 The prediction markets [Augur](https://www.augur.net/) and [Gnosis](https://groupgnosis.com/) can be seen as fundamental elements of a futarchy.
 
@@ -125,39 +127,64 @@ Ralph Merkle outlines in [this paper](http://merkle.com/papers/DAOdemocracyDraft
 > [-] Prediction markets require a critical mass so that liquidity can arise. This solution is thus only possible in the **long term**, when enough people would be aware of the project and keep track of if. NB: participants of the market don't need to work for the project.
 > [+/-] The promises are still very difficult to qualify: do prediction markets deliver good results to identify right corporate choices?
 
-#### Stakeholders / Shareholders governance systems? 
+#### Stakeholders / Shareholders governance systems
+
 See gouvernance partenariale : 
-"Les  travaux  en  gouvernance  partenariale  inscrits  dans  la  théorie positive  de  l’agence  (Jensen et Meckling 1976, 1992) appréhendent l’organisation comme un système contractuel coopératif   où   interagissent   différents   partenaires   aux   intérêts divergents.   Supposant   l’existence  de  conflits  entre  cocontractants  parmi  lesquels  agit  le  dirigeant,  cette  approche propose une   analyse   du   fonctionnement   organisationnel   à   partir des   mécanismes   de  gouvernance. Les parties prenantes s’appuient contractuellement ou non sur ces derniers afin de  discipliner  ou  d'infléchir  le  comportement décisionnel  du  dirigeant. L’entreprise  est  considérée comme un ensemble de contrats, et de mécanismes de gouvernance permettant la sauvegarde des intérêts de chacune des parties prenantes, de les aligner et d'atténuer leur perte d’utilité  respective" in (https://www.researchgate.net/profile/Celine_Chatelin/publication/255645966_Stabilit_et_volution_du_cadre_conceptuel_en_gouvernance_d'entreprise__un_essai_de_synthse/links/5440edf40cf228087b69a17d.pdf)
+
+> "Les  travaux  en  gouvernance  partenariale  inscrits  dans  la  théorie positive  de  l’agence  (Jensen et Meckling 1976, 1992) appréhendent l’organisation comme un système contractuel coopératif   où   interagissent   différents   partenaires   aux   intérêts divergents.   Supposant   l’existence  de  conflits  entre  cocontractants  parmi  lesquels  agit  le  dirigeant,  cette  approche propose une   analyse   du   fonctionnement   organisationnel   à   partir des   mécanismes   de  gouvernance. Les parties prenantes s’appuient contractuellement ou non sur ces derniers afin de  discipliner  ou  d'infléchir  le  comportement décisionnel  du  dirigeant. L’entreprise  est  considérée comme un ensemble de contrats, et de mécanismes de gouvernance permettant la sauvegarde des intérêts de chacune des parties prenantes, de les aligner et d'atténuer leur perte d’utilité  respective"
+
+in (https://www.researchgate.net/profile/Celine_Chatelin/publication/255645966_Stabilit_et_volution_du_cadre_conceptuel_en_gouvernance_d'entreprise__un_essai_de_synthse/links/5440edf40cf228087b69a17d.pdf)
 
 #### Delegative democracy
+
 Also called liquid democracy. [Wikipedia](https://en.wikipedia.org/wiki/Delegative_democracy).
 [Liquid feedback](http://liquidfeedback.org/) is an implementation mainly used in Germany.
 
 #### Democracy
+
 [Groupe Hervé](http://www.groupeherve.com/organisation-participative/intelligence-collective) works with internal democratic rules and network organization from years
 
 #### Strawman Democracy
+
 [DemocracyOS](http://democracyos.org/) is a software which let militant vote for the laws their representative would rigorously apply in Buenos Aires parliament. The associated party was called [Partido de la Red](http://partidodelared.org/). They lost in the elections.
 
-
-#### Evaluation plateform
-[Backfeed](http://backfeed.cc/) have developped a (private) evaluation system on top of slack.
-
-
-#### Decentralized social network
-Probably many implementations. Some of them
-- [Project groundhog](https://github.com/ethereumbuilders/groundhog) have done a [video](https://www.youtube.com/watch?v=WFeJYv3PSaI) explaining their social network.
-- [Akasha](https://bitcoinmagazine.com/articles/akasha-project-unveils-decentralized-social-media-network-based-on-ethereum-and-ipfs-1462551273).
-
-#### Decentralized investment platform
-[TheDao](https://daohub.org/) is a decentralized plateform for investing money in start-ups.
+[Flux](https://voteflux.org/) aims to apply blockchain technologies in that purpose, in Australia.
 
 #### Sociocracy
 
 [Sociocracy](http://sociocracy30.org/resource-library/) Is an organisational model, or set of methods and structures, to help build organisations, with notably helps decentralize decision making for being more effective.
 
+#### Value Network
+
+[Sensorica](http://www.sensorica.co/home/about-us) is a for-profit company which internal governance and management structure follows a "value network" model. It is open, decentralized, and self-organizing, and basd on commons.
+
+### Protocols
+
+#### Decentralized value distribution system
+
+[Backfeed](http://backfeed.cc/) promises a protocol for creating and running a decentralized value distribution system on top of a blockchain. Its two main features are:
+
+- a reputation system that prevents attacks (like sybil attacks and spam) on the system, and which embeds certain incentives which are considered positive (notably to promote alignment on decisions between peers inside the network, etc.)
+- tokens to reward peers for contributions that were evaluated by peers from the reputation system. It comes with 3 consecutive phases in time with different rules. They aim at yieldind high rewards for early contributors from the 1st phase in case the project works (resembles equity for early contributors), and allowind for late comers from the last phase to participate in a well-regulated market for these tokens (resembles salary-based work in the long-term).
+
+#### Decentralized social network
+
+Probably many implementations. Some of them
+- [Project groundhog](https://github.com/ethereumbuilders/groundhog) have done a [video](https://www.youtube.com/watch?v=WFeJYv3PSaI) explaining their social network.
+- [Akasha](https://bitcoinmagazine.com/articles/akasha-project-unveils-decentralized-social-media-network-based-on-ethereum-and-ipfs-1462551273).
+
+### Tools
+
+#### Decentralized investment platform
+
+[TheDao](https://daohub.org/) is a decentralized plateform for investing money in start-ups.
+
+#### Evaluation platform
+
+[Backfeed](http://backfeed.cc/) has developped a (private) evaluation system on top of slack.
 
 #### Various web based collaboration platforms
+
 - [Github](https://github.com/)
 - [Slack](https://slack.com/) is a multi-channel chat.
 - [Jira](https://fr.atlassian.com/software/jira) is a collaborative tool for agile project management.
