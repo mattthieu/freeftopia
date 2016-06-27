@@ -132,8 +132,10 @@ Also called liquid democracy. [Wikipedia](https://en.wikipedia.org/wiki/Delegati
 [Groupe Hervé](http://www.groupeherve.com/organisation-participative/intelligence-collective) works with internal democratic rules and network organization from years
 
 #### Strawman Democracy
+
 [DemocracyOS](http://democracyos.org/) is a software which let militant vote for the laws their representative would rigorously apply in Buenos Aires parliament. The associated party was called [Partido de la Red](http://partidodelared.org/). They lost in the elections.
 
+[Flux](https://voteflux.org/) aims to apply blockchain technologies in that purpose, in Australia.
 
 #### Evaluation plateform
 [Backfeed](http://backfeed.cc/) have developped a (private) evaluation system on top of slack.
