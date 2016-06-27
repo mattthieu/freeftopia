@@ -154,6 +154,10 @@ Also called liquid democracy. [Wikipedia](https://en.wikipedia.org/wiki/Delegati
 > [-] Doesn't go very far! Has to be coupled with local-decision making for
 > small decisions.
 
+#### Demarchy
+
+Also called Sortition: select random people to rule for some time. ([Wikipedia](https://en.wikipedia.org/wiki/Sortition))
+
 #### Strawman Democracy
 
 [DemocracyOS](http://democracyos.org/) is a software which let militant vote for the laws their representative would rigorously apply in Buenos Aires parliament. The associated party was called [Partido de la Red](http://partidodelared.org/). They lost in the elections.
