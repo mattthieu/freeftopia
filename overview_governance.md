@@ -115,6 +115,10 @@ TODO:
 [Wikipedia](https://en.wikipedia.org/wiki/Holacracy).
 [Zappos](https://www.zapposinsights.com/about/holacracy) claims to be implementing holacracy.
 
+> ** For FreeFtopia **
+> [++] Good principles for managing the company **in the medium-longer term**. We need to wait for people and things to get running.
+> [-] Doesn't solve decentralized retribution?
+
 #### Futarchy
 
 [Wikipedia](https://en.wikipedia.org/wiki/Futarchy).
@@ -144,6 +148,12 @@ Also called liquid democracy. [Wikipedia](https://en.wikipedia.org/wiki/Delegati
 
 [Groupe Hervé](http://www.groupeherve.com/organisation-participative/intelligence-collective) works with internal democratic rules and network organization from years
 
+> ** For FreeFtopia **
+> [++] In the **short-term**, the simplest way to get things going! Probably
+> only unanimous voting?
+> [-] Doesn't go very far! Has to be coupled with local-decision making for
+> small decisions.
+
 #### Strawman Democracy
 
 [DemocracyOS](http://democracyos.org/) is a software which let militant vote for the laws their representative would rigorously apply in Buenos Aires parliament. The associated party was called [Partido de la Red](http://partidodelared.org/). They lost in the elections.
@@ -154,9 +164,17 @@ Also called liquid democracy. [Wikipedia](https://en.wikipedia.org/wiki/Delegati
 
 [Sociocracy](http://sociocracy30.org/resource-library/) Is an organisational model, or set of methods and structures, to help build organisations, with notably helps decentralize decision making for being more effective.
 
+> ** For FreeFtopia **
+> [++] Good principles for managing the company **in the medium-longer term**. We need to wait for people and things to get running.
+> [-] Doesn't solve decentralized retribution?
+
 #### Value Network
 
 [Sensorica](http://www.sensorica.co/home/about-us) is a for-profit company which internal governance and management structure follows a "value network" model. It is open, decentralized, and self-organizing, and basd on commons.
+
+> ** For FreeFtopia **
+> [++] Good principles for managing the company **in the medium-longer term**. We need to wait for people and things to get running.
+> [-] Doesn't solve decentralized retribution?
 
 ### Protocols
 
@@ -166,6 +184,16 @@ Also called liquid democracy. [Wikipedia](https://en.wikipedia.org/wiki/Delegati
 
 - a reputation system that prevents attacks (like sybil attacks and spam) on the system, and which embeds certain incentives which are considered positive (notably to promote alignment on decisions between peers inside the network, etc.)
 - tokens to reward peers for contributions that were evaluated by peers from the reputation system. It comes with 3 consecutive phases in time with different rules. They aim at yieldind high rewards for early contributors from the 1st phase in case the project works (resembles equity for early contributors), and allowind for late comers from the last phase to participate in a well-regulated market for these tokens (resembles salary-based work in the long-term).
+
+> ** For FreeFtopia **
+> As the Ftopia company already exists, the 1st and 2nd phase can be skipped and
+> a reserve fund can be directly created with the existing funds.
+> Also, existing stakeholders should be rewarded for their previous
+> contribution, so we could think about an "accelerated" 1st and 2nd phase, to
+> profit (in terms of reputation and tokens) to contributors to Ftopia
+> (shareholders and employees).
+> [++] Seems to do what we want on the longer-term!
+> [--] Is it working...?
 
 #### Decentralized social network
 
