@@ -147,6 +147,10 @@ Probably many implementations. Some of them
 #### Decentralized investment platform
 [TheDao](https://daohub.org/) is a decentralized plateform for investing money in start-ups.
 
+#### Sociocracy
+
+[Sociocracy](http://sociocracy30.org/resource-library/) Is an organisational model, or set of methods and structures, to help build organisations, with notably helps decentralize decision making for being more effective.
+
 
 #### Various web based collaboration platforms
 - [Github](https://github.com/)
