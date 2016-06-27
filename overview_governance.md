@@ -107,13 +107,13 @@ This is a random collections of ressources which may be relevant, or not.
 TODO:
 - add other items
 - sort and comment the items
-- Group them
+
+### Governance systems
 
 #### Holacracy
 
 [Wikipedia](https://en.wikipedia.org/wiki/Holacracy).
 [Zappos](https://www.zapposinsights.com/about/holacracy) claims to be implementing holacracy.
-
 
 #### Futarchy
 
@@ -122,10 +122,13 @@ The prediction markets [Augur](https://www.augur.net/) and [Gnosis](https://grou
 
 Ralph Merkle outlines in [this paper](http://merkle.com/papers/DAOdemocracyDraft.pdf) ideas to apply futarchy as a way to "fix" democracy. He belives that prediction markets, better than voting systems, could yield higher welfare notably on the longer term.
 
-#### Stakeholders / Shareholders governance systems? 
+#### Stakeholders / Shareholders governance systems
 
 See gouvernance partenariale : 
-"Les  travaux  en  gouvernance  partenariale  inscrits  dans  la  théorie positive  de  l’agence  (Jensen et Meckling 1976, 1992) appréhendent l’organisation comme un système contractuel coopératif   où   interagissent   différents   partenaires   aux   intérêts divergents.   Supposant   l’existence  de  conflits  entre  cocontractants  parmi  lesquels  agit  le  dirigeant,  cette  approche propose une   analyse   du   fonctionnement   organisationnel   à   partir des   mécanismes   de  gouvernance. Les parties prenantes s’appuient contractuellement ou non sur ces derniers afin de  discipliner  ou  d'infléchir  le  comportement décisionnel  du  dirigeant. L’entreprise  est  considérée comme un ensemble de contrats, et de mécanismes de gouvernance permettant la sauvegarde des intérêts de chacune des parties prenantes, de les aligner et d'atténuer leur perte d’utilité  respective" in (https://www.researchgate.net/profile/Celine_Chatelin/publication/255645966_Stabilit_et_volution_du_cadre_conceptuel_en_gouvernance_d'entreprise__un_essai_de_synthse/links/5440edf40cf228087b69a17d.pdf)
+
+> "Les  travaux  en  gouvernance  partenariale  inscrits  dans  la  théorie positive  de  l’agence  (Jensen et Meckling 1976, 1992) appréhendent l’organisation comme un système contractuel coopératif   où   interagissent   différents   partenaires   aux   intérêts divergents.   Supposant   l’existence  de  conflits  entre  cocontractants  parmi  lesquels  agit  le  dirigeant,  cette  approche propose une   analyse   du   fonctionnement   organisationnel   à   partir des   mécanismes   de  gouvernance. Les parties prenantes s’appuient contractuellement ou non sur ces derniers afin de  discipliner  ou  d'infléchir  le  comportement décisionnel  du  dirigeant. L’entreprise  est  considérée comme un ensemble de contrats, et de mécanismes de gouvernance permettant la sauvegarde des intérêts de chacune des parties prenantes, de les aligner et d'atténuer leur perte d’utilité  respective"
+
+in (https://www.researchgate.net/profile/Celine_Chatelin/publication/255645966_Stabilit_et_volution_du_cadre_conceptuel_en_gouvernance_d'entreprise__un_essai_de_synthse/links/5440edf40cf228087b69a17d.pdf)
 
 #### Delegative democracy
 
@@ -142,9 +145,15 @@ Also called liquid democracy. [Wikipedia](https://en.wikipedia.org/wiki/Delegati
 
 [Flux](https://voteflux.org/) aims to apply blockchain technologies in that purpose, in Australia.
 
-#### Evaluation platform
+#### Sociocracy
 
-[Backfeed](http://backfeed.cc/) has developped a (private) evaluation system on top of slack.
+[Sociocracy](http://sociocracy30.org/resource-library/) Is an organisational model, or set of methods and structures, to help build organisations, with notably helps decentralize decision making for being more effective.
+
+#### Value Network
+
+[Sensorica](http://www.sensorica.co/home/about-us) is a for-profit company which internal governance and management structure follows a "value network" model. It is open, decentralized, and self-organizing, and basd on commons.
+
+### Protocols
 
 #### Decentralized value distribution system
 
@@ -159,18 +168,15 @@ Probably many implementations. Some of them
 - [Project groundhog](https://github.com/ethereumbuilders/groundhog) have done a [video](https://www.youtube.com/watch?v=WFeJYv3PSaI) explaining their social network.
 - [Akasha](https://bitcoinmagazine.com/articles/akasha-project-unveils-decentralized-social-media-network-based-on-ethereum-and-ipfs-1462551273).
 
+### Tools
+
 #### Decentralized investment platform
 
 [TheDao](https://daohub.org/) is a decentralized plateform for investing money in start-ups.
 
-#### Sociocracy
+#### Evaluation platform
 
-[Sociocracy](http://sociocracy30.org/resource-library/) Is an organisational model, or set of methods and structures, to help build organisations, with notably helps decentralize decision making for being more effective.
-
-#### Value Network
-
-[Sensorica](http://www.sensorica.co/home/about-us) is a for-profit company which internal governance and management structure follows a "value network" model. It is open, decentralized, and self-organizing, and basd on commons.
-
+[Backfeed](http://backfeed.cc/) has developped a (private) evaluation system on top of slack.
 
 #### Various web based collaboration platforms
 
