@@ -153,6 +153,10 @@ Probably many implementations. Some of them
 
 [Sociocracy](http://sociocracy30.org/resource-library/) Is an organisational model, or set of methods and structures, to help build organisations, with notably helps decentralize decision making for being more effective.
 
+#### Value Network
+
+[Sensorica](http://www.sensorica.co/home/about-us) is a for-profit company which internal governance and management structure follows a "value network" model. It is open, decentralized, and self-organizing, and basd on commons.
+
 
 #### Various web based collaboration platforms
 - [Github](https://github.com/)
