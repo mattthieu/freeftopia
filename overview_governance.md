@@ -158,6 +158,9 @@ Also called liquid democracy. [Wikipedia](https://en.wikipedia.org/wiki/Delegati
 
 Also called Sortition: select random people to rule for some time. ([Wikipedia](https://en.wikipedia.org/wiki/Sortition))
 
+> ** For FreeFtopia **
+> [+/-] Randomness can be useful to artificially spread responsilibity.
+
 #### Strawman Democracy
 
 [DemocracyOS](http://democracyos.org/) is a software which let militant vote for the laws their representative would rigorously apply in Buenos Aires parliament. The associated party was called [Partido de la Red](http://partidodelared.org/). They lost in the elections.
