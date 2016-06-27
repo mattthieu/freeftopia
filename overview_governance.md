@@ -120,6 +120,11 @@ The prediction markets [Augur](https://www.augur.net/) and [Gnosis](https://grou
 
 Ralph Merkle outlines in [this paper](http://merkle.com/papers/DAOdemocracyDraft.pdf) ideas to apply futarchy as a way to "fix" democracy. He belives that prediction markets, better than voting systems, could yield higher welfare notably on the longer term.
 
+> ** For FreeFtopia **
+> An idea could be to apply prediction markets for big decisions (strategic).
+> [-] Prediction markets require a critical mass so that liquidity can arise. This solution is thus only possible in the **long term**, when enough people would be aware of the project and keep track of if. NB: participants of the market don't need to work for the project.
+> [+/-] The promises are still very difficult to qualify: do prediction markets deliver good results to identify right corporate choices?
+
 #### Stakeholders / Shareholders governance systems? 
 See gouvernance partenariale : 
 "Les  travaux  en  gouvernance  partenariale  inscrits  dans  la  théorie positive  de  l’agence  (Jensen et Meckling 1976, 1992) appréhendent l’organisation comme un système contractuel coopératif   où   interagissent   différents   partenaires   aux   intérêts divergents.   Supposant   l’existence  de  conflits  entre  cocontractants  parmi  lesquels  agit  le  dirigeant,  cette  approche propose une   analyse   du   fonctionnement   organisationnel   à   partir des   mécanismes   de  gouvernance. Les parties prenantes s’appuient contractuellement ou non sur ces derniers afin de  discipliner  ou  d'infléchir  le  comportement décisionnel  du  dirigeant. L’entreprise  est  considérée comme un ensemble de contrats, et de mécanismes de gouvernance permettant la sauvegarde des intérêts de chacune des parties prenantes, de les aligner et d'atténuer leur perte d’utilité  respective" in (https://www.researchgate.net/profile/Celine_Chatelin/publication/255645966_Stabilit_et_volution_du_cadre_conceptuel_en_gouvernance_d'entreprise__un_essai_de_synthse/links/5440edf40cf228087b69a17d.pdf)
